@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bccf1c2.css",
+    "main.js": "/static/js/main.17d8cbef.js",
+    "static/media/yer.gif": "/static/media/yer.aa3d98c8104f4472e5ea.gif",
+    "static/media/yer5.gif": "/static/media/yer5.1a5247402004c4e42cf2.gif",
+    "static/media/planeta.png": "/static/media/planeta.9630a0c57823ffd0fea3.png",
+    "static/media/roket.png": "/static/media/roket.9cfd00e73ecbe700bd8d.png",
+    "static/media/worldmap.svg": "/static/media/worldmap.c966c826b799add1e4d3.svg",
+    "static/media/img.png": "/static/media/img.9a098b4d2476ad760604.png",
+    "static/media/home-banner-bg.png.webp": "/static/media/home-banner-bg.png.104538d937b61f769bd4.webp",
+    "static/media/registration-bg.png.webp": "/static/media/registration-bg.png.e61af1bdc8ddf8daea88.webp",
+    "static/media/user.png": "/static/media/user.13384bf700c11f359465.png",
+    "static/media/video-area-bg.png.webp": "/static/media/video-area-bg.png.87f41d8abeff1bbef2ac.webp",
+    "static/media/footer-bg.png.webp": "/static/media/footer-bg.png.7eb352695baedab51750.webp",
+    "index.html": "/index.html",
+    "static/media/sphere.svg": "/static/media/sphere.3cab8062ee3954a1dfc9.svg",
+    "static/media/inner_shadow.svg": "/static/media/inner_shadow.8ad981b96476c2ce36dd.svg",
+    "main.4bccf1c2.css.map": "/static/css/main.4bccf1c2.css.map",
+    "main.17d8cbef.js.map": "/static/js/main.17d8cbef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bccf1c2.css",
+    "static/js/main.17d8cbef.js"
+  ]
+}
